@@ -63,7 +63,6 @@ function App() {
 	
 	return (
 		<div className="App">
-			<h1 className="title">Welcome to Pavle's Calculator App!</h1>
 			<div className="calculator">
 				<div className="display">
 					{/* Span element is used to conditionally display a value */}
